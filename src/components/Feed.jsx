@@ -35,7 +35,7 @@ const Feed = () => {
           variant="body2"
           sx={{ mt: 1.5, color: "#fff" }}
         >
-          Copyright © 2022 Lucky Media
+          Copyright © 2024 Riza Media
         </Typography>
       </Box>
 
